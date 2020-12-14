@@ -1,0 +1,30 @@
+/etc/init.d/apache2 stop
+ 
+/etc/init.d/apache2 start
+
+ps -ax | grep apache2 | wc             show apache connection 
+
+netstat -an | grep 10.6.0.75      show connection 
+
+
+https://vk.com/id477684437?z=video-101965347_456268773%2F7388a965ca1fd7dbc3%2Fpl_post_-3183750_280238
+
+
+tlscontact2020$
+
+10.8.0.81
+
+VAN
+
+full pass
+
+trafshow listen interface  
+
+trafshow -p -n -i ens160
+
+
+
+
+Siege действительно великолепно подходит, так это для нагрузочного тестирования
+
+siege -c20 www.google.co.uk -b -t30s
