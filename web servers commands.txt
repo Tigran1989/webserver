@@ -22,7 +22,7 @@ trafshow listen interface
 
 trafshow -p -n -i ens160
 
-
+grep -Ri Errorlog /etc/apache2/
 
 
 Siege действительно великолепно подходит, так это для нагрузочного тестирования
